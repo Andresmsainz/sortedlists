@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\bin\Debug\netcoreapp3.1\SortedListApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\SortedListApp\obj\Debug\netcoreapp3.1\SortedListApp.genruntimeconfig.cache
